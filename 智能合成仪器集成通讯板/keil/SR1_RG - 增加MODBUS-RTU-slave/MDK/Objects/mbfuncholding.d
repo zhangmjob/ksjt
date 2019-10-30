@@ -1,0 +1,12 @@
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\functions\mbfuncholding.c
+.\objects\mbfuncholding.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mbfuncholding.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\port\port.h
+.\objects\mbfuncholding.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\mbfuncholding.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\mbfuncholding.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\include\mb.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\include\mbport.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\include\mbproto.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\include\mbframe.h
+.\objects\mbfuncholding.o: ..\Driver\FreeModbus\include\mbconfig.h

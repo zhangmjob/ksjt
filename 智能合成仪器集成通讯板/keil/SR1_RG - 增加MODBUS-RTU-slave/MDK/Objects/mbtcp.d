@@ -1,0 +1,13 @@
+.\objects\mbtcp.o: ..\Driver\FreeModbus\tcp\mbtcp.c
+.\objects\mbtcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mbtcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\port\port.h
+.\objects\mbtcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\mbtcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\mbtcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\include\mb.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\include\mbport.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\include\mbproto.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\include\mbconfig.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\tcp\mbtcp.h
+.\objects\mbtcp.o: ..\Driver\FreeModbus\include\mbframe.h

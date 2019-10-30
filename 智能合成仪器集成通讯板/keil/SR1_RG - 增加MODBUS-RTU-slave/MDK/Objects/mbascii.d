@@ -1,0 +1,14 @@
+.\objects\mbascii.o: ..\Driver\FreeModbus\ascii\mbascii.c
+.\objects\mbascii.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mbascii.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\port\port.h
+.\objects\mbascii.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\mbascii.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\mbascii.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\include\mb.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\include\mbport.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\include\mbproto.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\include\mbconfig.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\ascii\mbascii.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\include\mbframe.h
+.\objects\mbascii.o: ..\Driver\FreeModbus\rtu\mbcrc.h
